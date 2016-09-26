@@ -29,7 +29,11 @@ namespace Game
         public override string ToString()
         {
             return base.ToString();
-        } 
+        }
+        public string RandomMethod()
+        {
+            return "RandomMethod";
+        }
         #endregion
 
 

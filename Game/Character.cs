@@ -23,6 +23,7 @@ namespace Game
         {
             Name = name;
             Level = level;
+
         } 
         #endregion
 
